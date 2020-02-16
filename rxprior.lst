@@ -1,0 +1,8 @@
+README             - documentation
+rxprior.lst        - this file
+
+rxprior.c          - source code
+rxprior.def        - .def file for linker
+rxprior.mak        - make file for C Set
+
+rxprior.cmd        - test program
